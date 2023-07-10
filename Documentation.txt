@@ -1,0 +1,11 @@
+1) Initialize new Node project using "npm init"
+2) Create Express Server
+3) Make a mongodb server and connect it with the app
+4) Make the user Model first
+5) Create routes
+6) Make the register routes
+7) Hash password using bcrypt package
+8) Save the user when he registers
+9) Use jsonwebtoken for authorization and authentication purposes
+10) Protect routes with the help of the token created by jsonwebtoken
+11) If the token exists then only show the user the following routes
